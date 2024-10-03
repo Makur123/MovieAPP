@@ -1,4 +1,3 @@
-Based on the retrieved information, here is a catchy README for your Movie App project:
 
 # Movie-APP
 
